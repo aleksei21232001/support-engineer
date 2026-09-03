@@ -37,7 +37,7 @@
 
 ## 📬 Контакты
 
-- **GitHub:** [github.com/aleksei21232001](https://github.com/aleksei21232001) *(замени на свой логин)*
+- **GitHub:** [github.com/aleksei21232001](https://github.com/aleksei21232001)
 - **Telegram:** @fakeanufriev1
 - **Email:** aleksei21232001@gmail.com
 
